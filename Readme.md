@@ -1,1 +1,11 @@
-Olá, este é um site de locação chamado BestTravels, foi construído com html e css.
+# Site BestTravels.com
+
+### Tecnologias usadas
+
+#### Front end
+- Html
+- Css
+- JavaScript
+
+# Execute a aplicação 
+<https://besttravels.netlify.app/>
